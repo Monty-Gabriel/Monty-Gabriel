@@ -1,10 +1,11 @@
 <div>
-<h1> Hi!  My name is Monty. </h>
-<img align="right" alt="EC" height="100" src="https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/main/img/eh-verde.gif"> 
+<h1> Hi!  My name is Monty </h>
+<img align="right" alt="EC" height="100" style="border-radius:20px;" src="https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/main/img/eh-verde.gif">
 </div>
 </br>
+</br>
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/Monty-Gabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brseghese&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brseghese&layout=compact&langs_count=7&theme=chartreuse-dark"/>
@@ -12,7 +13,7 @@
   
   </br>
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +27,6 @@
   <a href = "mailto:montyvirtual-engine.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/monty-padron-7a2b9a169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-
   <!---![Snake animation](https://github.com/Monty-Gabriel/Monty-Gabriel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)-->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
