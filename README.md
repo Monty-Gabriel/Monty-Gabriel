@@ -28,12 +28,14 @@
  <div align="center"> 
   <a href="https://www.instagram.com/m0nty_g4bri3l/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:montyvirtual-engine.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/monty-padron-7a2b9a169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/montyt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <!---![Snake animation](https://github.com/Monty-Gabriel/Monty-Gabriel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)-->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="monty-padron-7a2b9a169" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/monty-padron-7a2b9a169?trk=profile-badge">Monty Padron</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="monty-padron-7a2b9a169" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/montyt?trk=profile-badge">Monty Padron</a></div>
+              
               
