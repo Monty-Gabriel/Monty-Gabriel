@@ -1,6 +1,6 @@
 <div>
 <h1> Hi!  My name is Monty </h>
-<img align="right" alt="EC" height="100" style="border-radius:20px;" src="https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/main/img/eh-verde.gif">
+<img align="right" alt="EC" height="80" style="border-radius:20px;" src="https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/main/img/eh-verde.gif">
 </div>
 </br>
 </br>
