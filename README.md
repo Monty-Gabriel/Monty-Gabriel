@@ -34,3 +34,6 @@
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Monty-Gabriel/Monty-Gabriel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="monty-padron-7a2b9a169" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/monty-padron-7a2b9a169?trk=profile-badge">Monty Padron</a></div>
+              
